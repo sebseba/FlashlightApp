@@ -1,4 +1,4 @@
-package com.flashlightapp
+package com.ilhan.flashlightapp
 
 import android.os.Bundle
 import com.facebook.react.ReactActivity

@@ -1,4 +1,4 @@
-package com.flashlightapp
+package com.ilhan.flashlightapp
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
